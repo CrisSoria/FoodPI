@@ -1,0 +1,15 @@
+.cnt {
+  background-color: var(--verde);
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  color: #fff;
+  padding: 1rem 2rem;
+  height: 100%;
+}
+.selected {
+  background-color: var(--rojo);
+}
